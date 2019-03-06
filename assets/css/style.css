@@ -1,0 +1,15 @@
+body {
+    /* background-image: url("../images/marvel.jpg"); */
+    background-color:gray;
+
+}
+.header {
+    text-align: center;
+
+}
+
+#instructions {
+    position: relative;
+
+}
+  
